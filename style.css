@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    flex-direction: column;
+    font-weight: 900;
+}
+
+li {
+    list-style: none;
+}
+
+.upper {
+    display: flex;
+    background-color: #1F2937;
+}
+
+.header {
+    display: flex;
+    font-size: 24px;
+    color: #F9FAF8;
+    justify-content: space-between;
+}
+
+.right {
+    display: flex;
+    flex-direction: row;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+}
